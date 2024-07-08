@@ -57,6 +57,7 @@ public class ListActivity extends AppCompatActivity {
         getAllPosts();
     }
 
+
     public void getAllPosts() {
         RequestQueue queue = Volley.newRequestQueue(this);
         String url = "https://jsonplaceholder.typicode.com/posts";
