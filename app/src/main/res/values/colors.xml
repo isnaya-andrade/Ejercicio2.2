@@ -4,8 +4,12 @@
     <color name="white">#FFFFFFFF</color>
     <color name="verde">#A1F999</color>
     <color name="gris">#d9d9d9</color>
+    <color name="gris_oscuro">#A0A0A0</color>
     <color name="gris_claro">#E8EBE7</color>
     <color name="amarillo_claro">#F8FF6E</color>
     <color name="verdesito">#B7DE99</color>
-
+    <color name="azul">#BCE7FF</color>
+    <color name="naranja">#F4DABB</color>
+    <color name="turquesa" >#1BC4C2</color>
+    <color name="azul_oscuro">#3E5D8A</color>
 </resources>
